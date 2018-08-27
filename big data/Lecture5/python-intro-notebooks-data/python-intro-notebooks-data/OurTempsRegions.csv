@@ -1,0 +1,57 @@
+city,state,lat,lng,temp,region,coastal
+Mobile,Alabama,31.2,88.5,44,Southcentral,Y
+Montgomery,Alabama,32.9,86.8,38,Southcentral,Y
+Phoenix,Arizona,33.6,112.5,35,Mountain,N
+Little Rock,Arkansas,35.4,92.8,31,Southcentral,N
+Los Angeles,California,34.3,118.7,47,Pacific,Y
+San Francisco,California,38.4,123,42,Pacific,Y
+Denver,Colorado,40.7,105.3,15,Mountain,N
+New Haven,Connecticut,41.7,73.4,22,Northeast,Y
+Wilmington,Delaware,40.5,76.3,26,Southatlantic,Y
+Washington,DC,39.7,77.5,30,Southatlantic,Y
+Jacksonville,Florida,31,82.3,45,Southatlantic,Y
+Key West,Florida,25,82,65,Southatlantic,Y
+Miami,Florida,26.3,80.7,58,Southatlantic,Y
+Atlanta,Georgia,33.9,85,37,Southatlantic,Y
+Boise,Idaho,43.7,117.1,22,Mountain,N
+Chicago,Illinois,42.3,88,19,Northcentral,N
+Indianapolis,Indiana,39.8,86.9,21,Northcentral,N
+Des Moines,Iowa,41.8,93.6,11,Northcentral,N
+Wichita,Kansas,38.1,97.6,22,Northcentral,N
+Louisville,Kentucky,39,86.5,27,Southcentral,N
+New Orleans,Louisiana,30.8,90.2,45,Southcentral,Y
+Portland,Maine,44.2,70.5,12,Northeast,Y
+Baltimore,Maryland,39.7,77.3,25,Southatlantic,Y
+Boston,Massachusetts,42.7,71.4,23,Northeast,Y
+Detroit,Michigan,43.1,83.9,21,Northcentral,N
+Minneapolis,Minnesota,45.9,93.9,2,Northcentral,N
+St. Louis,Missouri,39.3,90.5,24,Northcentral,N
+Helena,Montana,47.1,112.4,8,Mountain,N
+Omaha,Nebraska,41.9,96.1,13,Northcentral,N
+Concord,New Hampshire,43.5,71.9,11,Northeast,Y
+Atlantic City,New Jersey,39.8,75.3,27,Midatlantic,Y
+Albuquerque,New Mexico,35.1,106.7,24,Mountain,N
+Albany,New York,42.6,73.7,14,Midatlantic,Y
+New York,New York,40.8,74.6,27,Midatlantic,Y
+Charlotte,North Carolina,35.9,81.5,34,Southatlantic,Y
+Raleigh,North Carolina,36.4,78.9,31,Southatlantic,Y
+Bismarck,North Dakota,47.1,101,0,Northcentral,N
+Cincinnati,Ohio,39.2,85,26,Northcentral,N
+Cleveland,Ohio,42.3,82.5,21,Northcentral,N
+Oklahoma City,Oklahoma,35.9,97.5,28,Southcentral,N
+Portland,Oregon,45.6,123.2,33,Pacific,Y
+Harrisburg,Pennsylvania,40.9,77.8,24,Midatlantic,N
+Philadelphia,Pennsylvania,40.9,75.5,24,Midatlantic,N
+Charleston,South Carolina,33.3,80.8,38,Southatlantic,Y
+Nashville,Tennessee,36.7,87.6,31,Southcentral,N
+Amarillo,Texas,35.6,101.9,24,Southcentral,Y
+Galveston,Texas,29.4,95.5,49,Southcentral,Y
+Houston,Texas,30.1,95.9,44,Southcentral,Y
+Salt Lake City,Utah,41.1,112.3,18,Mountain,N
+Burlington,Vermont,45,73.9,7,Northeast,N
+Norfolk,Virginia,37,76.6,32,Southatlantic,Y
+Seattle,Washington,48.1,122.5,33,Pacific,Y
+Spokane,Washington,48.1,117.9,19,Pacific,Y
+Madison,Wisconsin,43.4,90.2,9,Northcentral,N
+Milwaukee,Wisconsin,43.3,88.1,13,Northcentral,N
+Cheyenne,Wyoming,41.2,104.9,14,Mountain,N

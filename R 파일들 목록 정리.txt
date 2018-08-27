@@ -1,0 +1,81 @@
+-R Classification Decision tree
+	plot simple
+	nrow(df)- 몇줄인지
+	caret 데이터 나누기
+	tree lib사용
+		cv
+		pruning
+		library(e1071) 예측
+
+-R_Decision tree (comparison of 3 packages)
+	library(rpart)
+	library(party)-프루닝 안해도 됨
+
+-R Classification LDA CART(RPART) KNN SVM RF
+	dim(dataset) 행 개수, 열개수
+	sapply(dataset, class) 이름들과 type형
+	levels(dataset$Species) 데이터 레벨
+	prop.table(table(dataset$Species))비율
+	summary(dataset) 최소,최대,쿼터 다 보여줌
+	boxplot 박스 플랏
+	featurePlot 여러 그래프 모습
+	trainControl(method="cv", number=10) cv 돌려가면서
+
+-R K-means clustering
+	library(dplyr)
+	데이터(리스트 아니면, 데이터 그램) 불러들여와서 clustiering 
+
+-R practice1
+	%>% 파이프 쓰는 거
+
+-R Social network analysis	
+	메트릭스 계산이용. 상관 있는 것들 선으로 연결
+	library(igraph)
+
+-R basics 2 171113
+	정규분포 랜덤
+	균일분포 랜덤	
+	함수만들기
+	함수 그래프
+	매트릭스 이름
+	매트릭스 연산
+	매트릭스 붙이기
+
+
+
+
+
+스칼라
+
+벡터
+	일정크기로 증가하는 벡터
+	벡터에 더하기하면 각각요소에 더해짐
+	벡터 요소에 이름
+	summary
+	검색[] - 순서(1부터시작)
+		-벡터 안에 검색할 항목들 나열한 벡터로 검색
+		-gender == "m"
+		-table(workshop)#표로 보여줌 원소의 개수를
+
+
+펙터 
+	level
+	as.numeric(workshop)
+	검색[] - gender == "m"
+	factor(xv, c("A", "C")) 원하는 항목만 넣기
+
+-----벡터들로 만들 수 있음------
+
+리스트
+	list[$로된 항목이름]
+	list[[항목의 원소접근]]
+	names() 항목 이름
+
+매트릭스	[],$
+	cbind로 만듬
+	행,렬에 이름 지정 가능	
+	NA처리 pairwise 
+
+
+데이터 프레임
+	검색 [], $label로 검색
